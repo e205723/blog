@@ -1,0 +1,65 @@
+baseURL: "https://e205723.github.io/"
+
+module:
+  imports:
+    - path: github.com/peaceiris/hugo-theme-iris
+
+# googleAnalytics: UA-123-45
+disqusShortname: hugothemeiris
+
+# paginate: 3
+canonifyURLs: true
+enableRobotsTXT: true
+pluralizeListTitles: false
+
+# hugo syntax highlighting
+pygmentsUseClasses: true
+pygmentsCodefences: true
+
+enableEmoji: true
+enableGitInfo: true
+enableInlineShortcodes: true
+
+taxonomies: {}
+#   - tag: tags
+
+imaging:
+  quality: 75
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+minify:
+  tdewolff:
+    xml:
+      keepWhitespace: true
+
+# Configure Languages
+DefaultContentLanguage: ja
+languages:
+  en:
+    contentDir: content/en
+    languageName: English
+    languageCode: en-us
+    params:
+      author: rienNeVaPlus
+      description: If you're interested in machine learning, language aquisition, or rienNeVaPlus, please read my blog!
+      publishdate: '2020-01-01'
+      twitter:
+        username: rienNeVaPlusOne
+    title: rienNeVaPlus's blog
+    weight: 1
+  ja:
+    contentDir: content/ja
+    languageName: 日本語
+    languageCode: ja-jp
+    params:
+      author: rienNeVaPlus
+      description: 機械学習、言語習得、rienNeVaPlusに興味がありましたら、私のブログを読んでください。
+      publishdate: '2020-01-01'
+      twitter:
+        username: rienNeVaPlusOne
+    title: rienNeVaPlusのブログ
+    weight: 2
