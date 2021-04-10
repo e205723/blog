@@ -22,8 +22,6 @@ I know how to make neural networks.
 
 <div class="buttons">
   {{< button href="./diary/" txt="Diary" >}}
-  {{< button href="./language_aquisition/" txt="Language aquisition" >}}
-  {{< button href="./machine_learning/" txt="Machine Learning" >}}
   {{< button href="./study/" txt="Study" >}}
 </div>
 
@@ -31,7 +29,6 @@ I know how to make neural networks.
 
 <div class="buttons">
   {{< button href="https://twitter.com/rienNeVaPlusOne" txt="Main Twitter" >}}
-  {{< button href="https://twitter.com/rienNeVaPlusTwo" txt="Second Twitter" >}}
 </div>
 
 <!-- Internal References -->

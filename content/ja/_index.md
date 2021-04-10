@@ -21,8 +21,6 @@ publishdate: 2020-01-01T23:00:00.000Z
 
 <div class="buttons">
   {{< button href="./diary/" txt="日記" >}}
-  {{< button href="./language_aquisition/" txt="言語習得" >}}
-  {{< button href="./machine_learning/" txt="機械学習" >}}
   {{< button href="./study/" txt="勉強" >}}
 </div>
 
@@ -30,7 +28,6 @@ publishdate: 2020-01-01T23:00:00.000Z
 
 <div class="buttons">
   {{< button href="https://twitter.com/rienNeVaPlusOne" txt="Main Twitter" >}}
-  {{< button href="https://twitter.com/rienNeVaPlusTwo" txt="Second Twitter" >}}
 </div>
 
 <!-- Internal References -->
