@@ -22,6 +22,7 @@ publishdate: 2020-01-01T23:00:00.000Z
 <div class="buttons">
   {{< button href="./diary/" txt="日記" >}}
   {{< button href="./study/" txt="勉強" >}}
+  {{< button href="./memorandum/" txt="忘備録" >}}
 </div>
 
 ### External
