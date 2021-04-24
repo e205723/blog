@@ -23,6 +23,7 @@ publishdate: 2020-01-01T23:00:00.000Z
   {{< button href="./diary/" txt="日記" >}}
   {{< button href="./study/" txt="勉強" >}}
   {{< button href="./memorandum/" txt="忘備録" >}}
+  {{< button href="./study_os/" txt="OSの勉強" >}}
 </div>
 
 ### External
