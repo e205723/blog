@@ -24,6 +24,7 @@ publishdate: 2020-01-01T23:00:00.000Z
   {{< button href="./study/" txt="勉強" >}}
   {{< button href="./memorandum/" txt="忘備録" >}}
   {{< button href="./study_os/" txt="OSの勉強" >}}
+  {{< button href="./study_machine_learning/" txt="機械学習の勉強" >}}
 </div>
 
 ### External
