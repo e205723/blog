@@ -1,11 +1,11 @@
 ---
-title: Home
-description: rienNeVaPlus's homepage
+title: yoshisaur
+description: yoshisaur's homepage
 date: 2020-09-03T23:00:00.000Z
 publishdate: 2020-01-01T23:00:00.000Z
 ---
 
-## rienNeVaPlus
+## yoshisaur
 
 {{< circle src="/images/logo.jpg" alt="hugo-theme-iris logo" >}}
 
@@ -28,7 +28,7 @@ I know how to make neural networks.
 ### External
 
 <div class="buttons">
-  {{< button href="https://twitter.com/rienNeVaPlusOne" txt="Main Twitter" >}}
+  {{< button href="https://twitter.com/ie_Yoshisaur" txt="Twitter" >}}
 </div>
 
 <!-- Internal References -->

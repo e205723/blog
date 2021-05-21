@@ -1,4 +1,4 @@
-baseURL: "https://e205723.github.io/"
+baseURL: "https://yoshisaur.net/"
 
 module:
   imports:
@@ -44,22 +44,22 @@ languages:
     languageName: English
     languageCode: en-us
     params:
-      author: rienNeVaPlus
-      description: If you're interested in machine learning, language aquisition, or rienNeVaPlus, please read my blog!
+      author: Yoshisaur
+      description: If you're interested in machine learning, language aquisition, or Yoshisaur, please read my blog!
       publishdate: '2020-01-01'
       twitter:
-        username: rienNeVaPlusOne
-    title: rienNeVaPlus's blog
+        username: ie_Yoshisaur
+    title: Yoshisaur's blog
     weight: 1
   ja:
     contentDir: content/ja
     languageName: 日本語
     languageCode: ja-jp
     params:
-      author: rienNeVaPlus
-      description: 機械学習、言語習得、rienNeVaPlusに興味がありましたら、私のブログを読んでください。
+      author: Yoshisaur
+      description: 機械学習、言語習得、Yoshisaurに興味がありましたら、私のブログを読んでください。
       publishdate: '2020-01-01'
       twitter:
-        username: rienNeVaPlusOne
-    title: rienNeVaPlusのブログ
+        username: ie_Yoshisaur
+    title: Yoshisaurのブログ
     weight: 2

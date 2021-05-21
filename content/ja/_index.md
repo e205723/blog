@@ -1,11 +1,11 @@
 ---
-title: Home
-description: rienNeVaPlusのホームページ
+title: Yoshisaur
+description: Yoshisaurのホームページ
 date: 2020-09-03T23:00:00.000Z
 publishdate: 2020-01-01T23:00:00.000Z
 ---
 
-## rienNeVaPlus
+## Yoshisaur
 
 {{< circle src="/images/logo.jpg" alt="hugo-theme-iris logo" >}}
 
@@ -22,7 +22,7 @@ publishdate: 2020-01-01T23:00:00.000Z
 <div class="buttons">
   {{< button href="./diary/" txt="日記" >}}
   {{< button href="./study/" txt="勉強" >}}
-  {{< button href="./memorandum/" txt="忘備録" >}}
+  {{< button href="./memorandum/" txt="備忘録" >}}
   {{< button href="./study_os/" txt="OSの勉強" >}}
   {{< button href="./study_machine_learning/" txt="機械学習の勉強" >}}
 </div>
@@ -30,7 +30,7 @@ publishdate: 2020-01-01T23:00:00.000Z
 ### External
 
 <div class="buttons">
-  {{< button href="https://twitter.com/rienNeVaPlusOne" txt="Main Twitter" >}}
+  {{< button href="https://twitter.com/ie_Yoshisaur" txt="Twitter" >}}
 </div>
 
 <!-- Internal References -->

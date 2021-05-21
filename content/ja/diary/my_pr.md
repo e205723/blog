@@ -29,11 +29,11 @@ publishdate: 2021-04-10T16:15:17+09:00
 
 ### ブログ
 
-B1の頃は, [琉大 Advent Calendar 2020](https://adventar.org/calendars/5231)で「[ニューラルネットワークの仕組みと実装の解説](https://e205723.github.io/study/how_to_make_neural_network/)」と「[お金を稼ぐための機械学習](https://e205723.github.io/study/data_science_for_money_making/)」という記事を書きました
+B1の頃は, [琉大 Advent Calendar 2020](https://adventar.org/calendars/5231)で「[ニューラルネットワークの仕組みと実装の解説](https://e205723.github.io/study_machine_learning/how_to_make_neural_network/)」と「[お金を稼ぐための機械学習](https://e205723.github.io/study_machine_learning/data_science_for_money_making/)」という記事を書きました
 
-「[ニューラルネットワークの仕組みと実装の解説](https://e205723.github.io/study/how_to_make_neural_network/)」では,「 [Home-made-NN](https://github.com/e205723/Home-made-NN) 」というレポジトリを作成しました. このブログの記事は, 仕組みを勉強しながらニューラルネットワークを再実装することで, 体感的にモデルがどのように学習をするか理解できるように書きました. 
+「[ニューラルネットワークの仕組みと実装の解説](https://e205723.github.io/study_machine_learning/how_to_make_neural_network/)」では,「 [Home-made-NN](https://github.com/e205723/Home-made-NN) 」というレポジトリを作成しました. このブログの記事は, 仕組みを勉強しながらニューラルネットワークを再実装することで, 体感的にモデルがどのように学習をするか理解できるように書きました. 
 
-「[お金を稼ぐための機械学習](https://e205723.github.io/study/data_science_for_money_making/)」ではビジネスの場面で, どのように機械学習の技術を応用できるか, 詳しく書いてみました.
+「[お金を稼ぐための機械学習](https://e205723.github.io/study_machine_learning/data_science_for_money_making/)」ではビジネスの場面で, どのように機械学習の技術を応用できるか, 詳しく書いてみました.
 
 ### kaggle
 
